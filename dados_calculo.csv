@@ -1,0 +1,2 @@
+numero_processo,digito,ano,tribunal,vara,valor_causa,autuado_em,reclamante_nome,CPF_reclamante,pis_reclamante,advogado_reclamante_nome,oab_reclamante,CPF_advogado,reclamado_nome,CPF_reclamado,advogado_reclamado_nome,oab_reclamado,cpf_advogado_reclamado
+0000053,66,2022,15,3,50000,01012025,João da Silva,111.444.777-35,123.45678.90-0,Dr. Pedro Costa,12345/SP,123.456.789-09,Empresa ABC,111.444.777-35,Dra. Maria Souza,67890/SP,987.654.321-00
