@@ -1,5 +1,6 @@
 # 🧾 Automação PJECALC - Preenchimento Inteligente  
 Este é um aplicativo desktop em Python com interface gráfica (Tkinter) que automatiza o processo de preenchimento de dados no sistema PJECALC, simulando ações humanas como cliques e digitação, com base em arquivos CSV personalizados.  
+<br>
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License](https://img.shields.io/badge/license-Educacional-lightgrey)  
 ## ✨ Funcionalidades  
 ✅ Interface simples para selecionar e iniciar o processo  
@@ -22,7 +23,7 @@ A interface foi desenvolvida com Tkinter. Ela possui apenas um botão de execuç
 1. Clone este repositório: git clone https://github.com/seu-usuario/automacao-pjecalc.git && cd automacao-pjecalc  
 2. Instale as dependências: `pip install pyautogui pillow`
 3. Edite o caminho do PJECALC no script principal (linha com CAMINHO_BAT): `CAMINHO_BAT = r"D:\documentos\pjecalc-windows64-2.13.2\iniciarPjeCalc.bat"`
-4. Execute o script: python script.py  
+4. Execute o script: `python script.py  `
 5. Aguarde o PJECALC abrir e o botão “Criar Novo Cálculo” ser reconhecido. A automação seguirá até preencher tudo automaticamente.  
 ## 📁 Estrutura esperada  
 automacao-pjecalc/  
