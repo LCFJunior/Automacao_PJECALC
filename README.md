@@ -42,6 +42,6 @@ automacao-pjecalc/
 
 
 <br><br>
-<p align="center"><em>Feito com 💻 por Luiz Carlos Francisco Junior</em></p>
+<p align="center"><em>Feito por Luiz Carlos Francisco Junior</em></p>
 
 
